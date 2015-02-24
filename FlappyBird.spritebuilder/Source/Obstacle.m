@@ -9,7 +9,7 @@
 #import "Obstacle.h"
 
 @implementation Obstacle {
-  CCNode *_topPipe;
+  
   CCNode *_bottomPipe;
 }
 
